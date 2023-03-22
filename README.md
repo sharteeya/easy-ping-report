@@ -1,5 +1,5 @@
-# EZPing
-EZPing is an experimental ping stablility testing tool build by Python.
+# Easy-ping-report
+Easy-ping-report is an experimental ping stablility testing tool build by Python.
 
 The target is to make ping testing much more easier and make data visualization.
 
